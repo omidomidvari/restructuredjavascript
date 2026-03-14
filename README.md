@@ -44,5 +44,4 @@ npm install typescript @types/node --save-dev
 ```
 # chapter 5 - credits
 homemovie - making this software
-npm init -y
-npm install typescript @types/node --save-dev
+
