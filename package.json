@@ -2,14 +2,33 @@
   "name": "restructuredjavascript",
   "version": "1.0.0",
   "description": "RestructuredJavaScript (.structjs) to ladder logic converter. made by homemovie.",
+  "keywords": [
+    "javascript",
+    "structjs",
+    "logic-ladder",
+    "ladder",
+    "plc",
+    "control"
+  ],
+  "homepage": "https://github.com/omidomidvari/restructuredjavascript#readme",
+  "bugs": {
+    "url": "https://github.com/omidomidvari/restructuredjavascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omidomidvari/restructuredjavascript.git"
+  },
+  "license": "ISC",
+  "author": "homemovie",
+  "type": "commonjs",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "dependencies": {},
   "devDependencies": {
     "typescript": "^5.3.3",
     "@types/node": "^20.11.0"
   }
 }
+
