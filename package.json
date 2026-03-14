@@ -24,7 +24,9 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "testjson": "echo hello!"
     "start": "node dist/index.js"
+    "build-start": "tsc && node dist/index.js"
   },
   "devDependencies": {
     "typescript": "^5.3.3",
