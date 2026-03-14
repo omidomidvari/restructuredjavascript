@@ -1,0 +1,15 @@
+{
+  "name": "restructuredjavascript",
+  "version": "1.0.0",
+  "description": "RestructuredJavaScript (.structjs) to ladder logic converter. made by homemovie.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.0"
+  }
+}
