@@ -39,6 +39,8 @@ While effective, it’s visually oriented and can be slow to write for developer
 **Setup:**
 ```bash
 mkdir restructuredjavascript && cd restructuredjavascript
+npm init -y
+npm install typescript @types/node --save-dev
 ```
 # chapter 5 - credits
 homemovie - making this software
