@@ -1,0 +1,6 @@
+// Example RestructuredJavaScript logic
+if (Sensor1 && Sensor2) {
+    Motor = true;
+} else {
+    Motor = false;
+}
